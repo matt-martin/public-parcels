@@ -1,3 +1,5 @@
+![single family residences in Napa county](single_family_residences_in_napa_county.png)
+
 # Initial Python setup
 
 ```shell
