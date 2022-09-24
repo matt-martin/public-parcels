@@ -1,5 +1,3 @@
-![single family residences in Napa county](single_family_residences_in_napa_county.png)
-
 # Initial Python setup
 
 ```shell
@@ -32,3 +30,7 @@ From within your virtualenv (see "Initial Python setup"):
 ```shell
 python analyze.py
 ```
+
+This prints out the output of some basic queries and, just for fun, prints a map of single family residences that looks like this:
+
+![single family residences in Napa county](single_family_residences_in_napa_county.png)
